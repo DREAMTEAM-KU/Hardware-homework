@@ -1,4 +1,2 @@
 ﻿# Hardware-homework
-# Hardware-homwork
-
-home work is in A3 file
+home work is in End_Node_IKS01A2 files
